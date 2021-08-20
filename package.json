@@ -1,0 +1,22 @@
+{
+    "publisher": "MatanCohen",
+    "name": "herakles",
+    "displayName": "Herakles",
+    "description": "Herakles is a dark theme based on Antonio Bravo \"HERAKLES\" work",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Herakles",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Herakles-color-theme.json"
+            }
+        ]
+    }
+}
