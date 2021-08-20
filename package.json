@@ -7,7 +7,8 @@
         "type": "git",
         "url": "https://github.com/comatan96/Herkales-theme.git"
     },
-    "version": "0.0.2",
+    "icon": "./images/icon.png",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.59.0"
     },
