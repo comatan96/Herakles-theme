@@ -1883,7 +1883,7 @@
 	  "statusBar.debuggingForeground": "#ffffff",
 	  "statusBar.noFolderBackground": "#993e3e",
 	  "statusBar.noFolderForeground": "#ffffff",
-	  "statusBarItem.remoteBackground": "#16825d",
+	  "statusBarItem.remoteBackground": "#F2B81E",
 	  "statusBarItem.remoteForeground": "#ffffff",
 	  "titleBar.activeBackground": "#3a4345",
 	  "titleBar.activeForeground": "#cccccc",
