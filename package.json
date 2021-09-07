@@ -8,7 +8,7 @@
         "url": "https://github.com/comatan96/Herakles-theme.git"
     },
     "icon": "images/icon.png",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.40.0"
     },
